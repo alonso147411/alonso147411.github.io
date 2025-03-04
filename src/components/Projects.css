@@ -6,7 +6,7 @@
   
   .projects h2 {
     font-size: 2.5rem;
-    color: #007bff;
+    color: black;
   }
   
   .project-list {
@@ -42,8 +42,8 @@
   }
 
   .btnVerMas{
-    background-color: #88b9ec;
-    color: white;
+    background-color: #B5A6D7;
+    color: black;
     padding: 5px 10px;
     border: none;
     border-radius: 5px;

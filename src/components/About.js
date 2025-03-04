@@ -8,12 +8,12 @@ return (
         <h2>Sobre Mí</h2>
         <img src={profileImage} alt="Foto de perfil" />
         <div className="skills">
-            <h3>Habilidades</h3>
+            <h3>Lenguajes en los que se programar</h3>
             <ul>
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>JavaScript</li>
-                <li>React</li>
+                {/* <li>React</li> */}
                 <li>C</li>
                 <li>Java</li>
                 <li>Python</li>

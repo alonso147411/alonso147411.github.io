@@ -4,7 +4,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: black;
     color: white;
     position: fixed;
     top: 0;
@@ -42,7 +42,7 @@
   }
   
   .menu li a:hover {
-    color: #ffea00;
+    color: #F8C8D2;
   }
   
   /* Estilos para el icono de hamburguesa */
@@ -60,7 +60,7 @@
       left: 0;
       right: 0;
       bottom: 0;
-      background-color: #007bff;
+      background-color: black;
       flex-direction: column;
       align-items: center;
       justify-content: center;
@@ -98,6 +98,6 @@
   
   /* Cuando la navbar está activa, cambia el color del fondo */
   .navbar.active {
-    background-color: #0056b3;
+    background-color: #F8C8D2;
   }
   

@@ -7,7 +7,6 @@ import Projects from "./Projects";
 import Contact from "./Contact";
 
 
-//import cv from "../assets/cv.pdf";
 
 function Home() {
   useEffect(() => {
@@ -22,7 +21,6 @@ function Home() {
           <h1>Hola, soy <span>Ana</span></h1>
           <p> Y este es mi portfolio</p>
           <a href="#about" className="btn">Sobre Mí</a>
-          {/* <a href={cv} download="Ana_CV.pdf" className="btn">Descargar CV</a> */}
         </div>
       </section>
 
