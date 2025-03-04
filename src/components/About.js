@@ -19,14 +19,15 @@ return (
                 <li>Python</li>
                 
             </ul>
-
         </div>
-        <div className="experience">
-            <h3>Experiencia</h3>
-            <p>Cursando ingeniería informática en la UPNA</p>
 
-
+        <div className="education">
+            <h3>Educación</h3>
+            <p>C1 de Inglés</p>
+            <p>Grado en Ingeniería Informática en la UPNA 2021 - Presente</p>
         </div>
+        <p><a href="/path/to/mi-cv.pdf" target="_blank" class= "btn" rel="noopener noreferrer">Descargar mi CV</a></p>
+
     </section>
 );
 }
