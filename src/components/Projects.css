@@ -1,0 +1,52 @@
+.projects {
+    padding: 100px 20px;
+    text-align: center;
+    background: #f8f9fa;
+  }
+  
+  .projects h2 {
+    font-size: 2.5rem;
+    color: #007bff;
+  }
+  
+  .project-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .project-card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    width: 250px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  /* Efecto Hover */
+  .project-card:hover {
+    transform: translateY(-10px);  /* Levantar la tarjeta */
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2); /* Sombra más pronunciada */
+  }
+  
+  .project-card h3 {
+    color: #333;
+  }
+  
+  .project-card p {
+    color: #777;
+    font-size: 1rem;
+  }
+
+  .btnVerMas{
+    background-color: #88b9ec;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
