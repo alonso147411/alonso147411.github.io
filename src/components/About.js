@@ -26,7 +26,7 @@ return (
             <p>C1 de Inglés</p>
             <p>Grado en Ingeniería Informática en la UPNA 2021 - Presente</p>
         </div>
-        <p><a href="/path/to/mi-cv.pdf" target="_blank" class= "btn" rel="noopener noreferrer">Descargar mi CV</a></p>
+        <p><a href="/Curriculum_Vitae.pdf" target="_blank" className="btn" rel="noopener noreferrer">Descargar mi CV</a></p>
 
     </section>
 );
