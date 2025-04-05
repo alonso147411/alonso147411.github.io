@@ -17,7 +17,16 @@ return (
                 <li>C</li>
                 <li>Java</li>
                 <li>Python</li>
+                <li>React</li>
                 
+            </ul>
+            <h3>Herramientas</h3>
+            <ul>
+                <li>Github</li>
+                <li>Docker</li>
+                <li>MySQL</li>
+                <li>Postman</li>
+                <li>Figma</li>
             </ul>
         </div>
 
