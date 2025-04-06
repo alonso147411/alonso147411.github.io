@@ -26,6 +26,11 @@ return (
                 <p>Katas hechas en clase de la universidad</p>
                 <a href="https://github.com/alonso147411?tab=repositories&q=&type=public&language=&sort=" target = "_blanck" className="btnVerMas">Ver más</a>
             </div>
+            <div className="project-card" data-aos="zoom-in" data-aos-delay="600">
+                <h3>WhatsApp Wrap</h3>
+                <p>Analisis de conversaciones de WhatsApp</p>
+                <a href="https://github.com/alonso147411/WhatsAppWrap" target = "_blanck" className="btnVerMas">Ver más</a>
+            </div>
         </div>
     </section>
 );
