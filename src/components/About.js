@@ -13,7 +13,6 @@ return (
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>JavaScript</li>
-                {/* <li>React</li> */}
                 <li>C</li>
                 <li>Java</li>
                 <li>Python</li>
@@ -35,8 +34,7 @@ return (
             <p>C1 de Inglés</p>
             <p>Grado en Ingeniería Informática en la UPNA 2021 - Presente</p>
         </div>
-        <p><a href="/Curriculum_Vitae.pdf" target="_blank" className="btn" rel="noopener noreferrer">Descargar mi CV</a></p>
-
+        <p><a href="/Currículum_Vitae.pdf" target="_blank" rel="noopener noreferrer" className="btn">Descargar mi CV</a></p>
     </section>
 );
 }
